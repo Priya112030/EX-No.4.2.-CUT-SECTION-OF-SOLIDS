@@ -3,6 +3,8 @@
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
+# NAME.:PRIYA.B
+# REF.NO:24900803
 
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
@@ -42,6 +44,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![Screenshot 2024-12-04 204447](https://github.com/user-attachments/assets/4a4c8190-6bac-49cc-877d-9b49f6c3b1c8)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
